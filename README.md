@@ -1,5 +1,3 @@
-### 👨‍💻 Alex Jhones
-
 <div align="center">
   <a href="https://github.com/AlexJhones">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexJhones&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -15,8 +13,7 @@
   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div> <br/>
-  
+</div> <br/>  
   
    <h4> 👨 My Social Networks </h4>
 <div>
@@ -25,7 +22,6 @@
     <a href = "mailto:alexjhones286@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://play.google.com/store/apps/developer?id=Dmenco+Studio" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a> 
 </div>
-  
 <!--
      https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white
 -->
